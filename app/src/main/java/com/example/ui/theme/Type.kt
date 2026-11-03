@@ -9,22 +9,15 @@ import androidx.compose.ui.unit.sp
 import com.example.R
 
 val SpaceGroteskFontFamily = FontFamily(
-    Font(R.font.space_grotesk, FontWeight.Normal),
-    Font(R.font.space_grotesk, FontWeight.Medium),
-    Font(R.font.space_grotesk, FontWeight.Bold)
+    Font(R.font.space_grotesk)
 )
 
 val PlusJakartaSansFontFamily = FontFamily(
-    Font(R.font.plus_jakarta_sans, FontWeight.Normal),
-    Font(R.font.plus_jakarta_sans, FontWeight.Medium),
-    Font(R.font.plus_jakarta_sans, FontWeight.SemiBold),
-    Font(R.font.plus_jakarta_sans, FontWeight.Bold)
+    Font(R.font.plus_jakarta_sans)
 )
 
 val JetBrainsMonoFontFamily = FontFamily(
-    Font(R.font.jetbrains_mono, FontWeight.Normal),
-    Font(R.font.jetbrains_mono, FontWeight.Medium),
-    Font(R.font.jetbrains_mono, FontWeight.Bold)
+    Font(R.font.jetbrains_mono)
 )
 
 val Typography = Typography(
