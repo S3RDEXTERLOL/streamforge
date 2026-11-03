@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StreamForge</string>
+    <string name="subtitle_studio">ON-DEVICE YT-DLP &amp; FFMPEG STUDIO</string>
+    <string name="nav_extract">Extract</string>
+    <string name="nav_queue">Queue</string>
+    <string name="nav_library">Library</string>
+    <string name="url_input_label">Media or Playlist URL</string>
+    <string name="url_input_placeholder">https://youtube.com/watch?v=... or playlist link</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_inspect_formats">Inspect Formats &amp; Streams</string>
+    <string name="action_quick_download">One-Tap Download</string>
+    <string name="clipboard_detected_title">URL Detected on Clipboard</string>
+    <string name="clipboard_action_inspect">Inspect</string>
+    <string name="clipboard_action_quick">Quick Download</string>
+    <string name="section_presets">Saved Format Presets</string>
+    <string name="action_new_preset">New Preset</string>
+    <string name="section_sample_streams">Instant Test Streams &amp; Playlists</string>
+    <string name="engine_ready_badge">yt-dlp + FFmpeg Ready</string>
+    <string name="engine_initializing_badge">Initializing Engine…</string>
+    <string name="empty_queue_title">Download Queue is Empty</string>
+    <string name="empty_queue_subtitle">Paste a media URL or select a test stream on the Extract tab to start downloading with yt-dlp.</string>
+    <string name="empty_library_title">No Downloaded Media Yet</string>
+    <string name="empty_library_subtitle">Completed video and audio downloads appear here with built-in playback and offline access.</string>
+</resources>

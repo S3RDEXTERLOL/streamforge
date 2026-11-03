@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for StreamForge, an Android media downloader powered by an embedded on-device yt-dlp engine with video/audio format selection, subtitle embedding, playlist batch selection, active download queue with pause/resume, built-in media player, clipboard/Share integration, and one-tap format presets.",
+  "updatedAt": "2026-11-02T18:22:45.189318018Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="140dp"
+    android:viewportWidth="360"
+    android:viewportHeight="140">
+    <path android:pathData="M0,0h360v140h-360z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="360"
+                android:endY="140"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#101622" />
+                <item android:offset="0.55" android:color="#162133" />
+                <item android:offset="1.0" android:color="#0C1924" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Studio Grid Lines -->
+    <path
+        android:pathData="M0,35 L360,35 M0,70 L360,70 M0,105 L360,105 M60,0 L60,140 M120,0 L120,140 M180,0 L180,140 M240,0 L240,140 M300,0 L300,140"
+        android:strokeColor="#14FFFFFF"
+        android:strokeWidth="1" />
+    <!-- Glowing Frequency Bars -->
+    <path
+        android:fillColor="#3300E5A3"
+        android:pathData="M24,84h8v32h-8zM40,62h8v54h-8zM56,42h8v74h-8zM72,72h8v44h-8zM88,52h8v64h-8zM104,30h8v86h-8zM120,58h8v58h-8zM136,76h8v40h-8z" />
+    <!-- Primary Waveform Curve -->
+    <path
+        android:pathData="M0,98 C50,45 95,115 150,64 C205,15 250,105 310,48 C335,28 350,42 360,36"
+        android:strokeColor="#00E5A3"
+        android:strokeWidth="2.8"
+        android:fillColor="#00000000" />
+    <!-- Secondary Amber Signal Curve -->
+    <path
+        android:pathData="M0,112 C65,85 115,40 175,82 C235,124 280,52 360,76"
+        android:strokeColor="#99FFB020"
+        android:strokeWidth="2.0"
+        android:fillColor="#00000000" />
+    <!-- Decorative Extraction Prism Badge -->
+    <path
+        android:fillColor="#2600E5A3"
+        android:pathData="M306,70m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    <path
+        android:fillColor="#00E5A3"
+        android:pathData="M296,82h20v-3h-20V82zM316,66h-6v-9h-8v9h-6l10,10L316,66z" />
+</vector>

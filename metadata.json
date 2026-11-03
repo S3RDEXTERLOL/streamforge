@@ -1,0 +1,6 @@
+{
+  "name": "StreamForge",
+  "description": "On-device yt-dlp media downloader with video/audio format selection, subtitle embedding, playlist batching, active queue, and built-in media player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
